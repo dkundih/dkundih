@@ -1,2 +1,2 @@
 **Welcome to my GitHub Repository!**
-<img src="/logistics/LinkedinHeader.jpg"/>
+<img src="/logistics/GitHubHeader.jpg"/>
