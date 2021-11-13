@@ -16,6 +16,7 @@ I am a Data science & Machine learning Python package developer from 🇭🇷 Cr
 <h4 align='center'>My latest projects:</h4>
 <p align='center'>
 🎭 <a href="https://github.com/dkundih/duality">duality</p>  
+<p align='center'>
 🏰 <a href="https://github.com/dkundih/unin">unin</a></p>
 </p>
 
