@@ -1,2 +1,2 @@
 **Welcome to my GitHub Repository!**
-<img src="/logistics/BLUERED_GHiLI.jpg"/>
+<img src="/.logistics/BLUERED_GHiLI.jpg"/>
