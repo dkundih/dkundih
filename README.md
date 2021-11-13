@@ -13,7 +13,8 @@ I am a Data science & Machine learning Python package developer from Croatia.
 <a href="https://www.instagram.com/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/instagram.jpg"></a>
 <a href="https://www.linkedin.com/in/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/linkedin.png"></a>
 <a href="https://www.pypi.org/user/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/pypi.jpg"></a>
-<a href="https://www.buymeacoffee.com/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/buymeacoffee.jpg"></a>
+<a href="https://www.buymeacoffee.com/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/buymeacoffee.jpg"></a
+<a href="https://www.behance.net/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/behance.jpg"></a>
 </p>
  
 <h1 align='center'><i>People shine the brightest when they seek to understand what kind of love sustains them.</i></h1>
