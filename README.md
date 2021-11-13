@@ -10,9 +10,11 @@
 <a href="https://www.pypi.org/user/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/pypi.jpg"></a>
 <a href="https://www.buymeacoffee.com/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/buymeacoffee.jpg"></a>
 <a href="https://www.behance.net/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/behance.jpg"></a>
- 
-I am a Data science & Machine learning Python package developer from 🇭🇷 Croatia, currently being the Management of Logistics Systems master's student at the University North.
 
+<p align='center'>
+I am a Data science & Machine learning Python package developer from 🇭🇷 Croatia, currently being the Management of Logistics Systems master's student at the University North.
+</p>
+ 
 <h4 align='center'>My latest projects:</h4>
 <p align='center'>
 🎭 <a href="https://github.com/dkundih/duality">duality</p>  
