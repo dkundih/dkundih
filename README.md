@@ -16,8 +16,10 @@
 I am a Data science & Machine learning Python package developer from 🇭🇷 Croatia, currently being the Management of Logistics Systems master's student at the University North.
 </p>
 
+<p align='center'>
 <h4>My latest projects:</h4>
 🎭 <a href="https://github.com/dkundih/duality">duality</p>  
 🏰 <a href="https://github.com/dkundih/unin">unin</a></p>
+</p>
 
 <h3 align='center'><i>People shine the brightest when they seek to understand what kind of love sustains them.</i></h3>
