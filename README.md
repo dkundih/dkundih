@@ -18,6 +18,6 @@ I am a Data science & Machine learning Python package developer from 🇭🇷 Cr
 
 <h4>My latest projects:</h4>
 🎭 <a href="https://github.com/dkundih/duality">duality</p>  
-🎭 <a href="https://github.com/dkundih/unin">unin</a>.</p>
+🏰 <a href="https://github.com/dkundih/unin">unin</a>.</p>
 
 <h3 align='center'><i>People shine the brightest when they seek to understand what kind of love sustains them.</i></h3>
