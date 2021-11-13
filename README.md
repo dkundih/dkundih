@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hi! :wave:</h1>
   
-<a href="https://www.buymeacoffee.com/dkundih"><img height="30" src=""></a>
+<a href="https://www.buymeacoffee.com/dkundih"><img height="30" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/buymeacoffee.jpg"></a>
 <a href="https://www.linkedin.com/in/dkundih/"><img height="30" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/linkedin.png"></a>
 <a href="https://www.pypi.org/user/dkundih/"><img height="30" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/pypi.jpg"></a>
   
