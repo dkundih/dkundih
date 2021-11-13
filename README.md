@@ -4,6 +4,8 @@
  
 <img src="/.logistics/BLUERED_GHiLI.jpg"/>
 
+<h3 align='center'><i>People shine the brightest when they seek to understand what kind of love sustains them.</i></h3>
+
 <p align='center'>
 <a href="https://www.instagram.com/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/instagram.jpg"></a>
 <a href="https://www.linkedin.com/in/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/linkedin.png"></a>
@@ -22,4 +24,3 @@ I am a Data science & Machine learning Python package developer from 🇭🇷 Cr
 🏰 <a href="https://github.com/dkundih/unin">unin</a></p>
 </p>
 
-<h3 align='center'><i>People shine the brightest when they seek to understand what kind of love sustains them.</i></h3>
