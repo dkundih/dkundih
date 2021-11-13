@@ -13,7 +13,7 @@
 </p>
  
 <p align='center'>
-I am a Data science & Machine learning Python package developer from Croatia.
+I am a Data science & Machine learning Python package developer from 🇭🇷 Croatia.
 </p>
 <p align='center'>Take a look at my latest projects <a href="https://github.com/dkundih/duality">duality</a> and  <a href="https://github.com/dkundih/unin">unin</a>.</p>
 
