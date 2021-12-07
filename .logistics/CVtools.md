@@ -2,7 +2,9 @@ ALATI
 =====
 
 FMEA analiza
+
 Matrica rizika
+
 Ishikawa dijagram
 Pareto dijagram
 ABC analiza
