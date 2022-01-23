@@ -31,4 +31,4 @@ My name is <b>David Kundih</b> and I am a Master's student of <b>Logistics syste
 </p>
  
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=dkundih&show_icons=true&theme=tokyonight">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"](https://github.com/anuraghazra/github-readme-stats)
