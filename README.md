@@ -29,5 +29,3 @@ My name is <b>David Kundih</b> and I am a Master's student of <b>Logistics syste
 <a href="https://www.behance.net/dkundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/behance.jpg"></a>
 <a href="https://www.researchgate.net/profile/David-Kundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/rg.jpg"></a>
 </p>
-
-<img align = 'center' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=dkundih&layout=compact&theme=tokyonight'>
