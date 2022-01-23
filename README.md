@@ -32,4 +32,4 @@ My name is <b>David Kundih</b> and I am a Master's student of <b>Logistics syste
  
 <img src="https://github-readme-stats.vercel.app/api?username=dkundih&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkundih&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkundih&show_icones=true&theme=tokyonight">
