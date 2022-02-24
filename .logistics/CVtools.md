@@ -1,9 +1,11 @@
-ALATI
+UPRAVLJAČKI ALATI
 =====
 
 FMEA analiza
 
 Matrica rizika
+
+Zbirna lista greški
 
 Ishikawa dijagram
 
@@ -42,6 +44,8 @@ KPI mreža
 Matrica dionika
 
 IDEF0 procesna struktura
+
+Dekompozicija procesa
 
 Dijagram tijeka
 
