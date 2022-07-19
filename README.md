@@ -12,7 +12,9 @@ My name is <b>David Kundih</b> and I am a Master's student of <b>Sustainable mob
 <p align='center'>
 ☣️ <a href="https://github.com/dkundih/vandal">vandal</p>  
 <p align='center'>
-🎭 <a href="https://github.com/dkundih/duality">duality</p>  
+🎭 <a href="https://github.com/dkundih/duality">duality</p>
+<p align='center'>
+🔧 <a href="https://github.com/dkundih/logistics">logistics</p>  
 <p align='center'>
 🏰 <a href="https://github.com/dkundih/unin">unin</a></p>
 </p>
