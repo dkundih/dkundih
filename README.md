@@ -10,7 +10,7 @@ My name is <b>David Kundih</b> and I am a <b>Master of Engineering in Sustainabl
  
 <h4 align='center'>My latest projects:</h4>
 <p align='center'>
-:suspension_railway: <a href="https://github.com/dkundih/kc-promet">kc-promet</p>  
+:suspension_railway: <a href="https://github.com/dkundih/promet-kc">promet-kc</p>  
 <p align='center'>
 ☣️ <a href="https://github.com/dkundih/vandal">vandal</p>  
 <p align='center'>
