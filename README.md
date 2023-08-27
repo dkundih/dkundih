@@ -3,10 +3,6 @@
 <h1 align='center'> Hi! :wave:</h1>
  
 <img src='https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/BLUERED_GHiLI.jpg'/>
-
-<p align='center'>
-My name is <b>David Kundih</b> and I am a <b>Master of Engineering in Sustainable Mobility and Logistics</b>, currently specializing in <b>Digital Transformation of Traffic and Logistics using Python, JavaScript, HTML and CSS.</b>
-</p>
  
 <h4 align='center'>My latest projects:</h4>
 <p align='center'>
@@ -20,8 +16,6 @@ My name is <b>David Kundih</b> and I am a <b>Master of Engineering in Sustainabl
 <p align='center'>
 🏰 <a href="https://github.com/dkundih/unin">unin</a></p>
 </p>
-
-<h3 align='center'><i>People shine the brightest when they seek to understand what kind of love sustains them.</i></h3>
 
 <p align='center'>
 <a href="https://www.instagram.com/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/instagram.jpg"></a>
