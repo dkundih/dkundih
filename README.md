@@ -6,13 +6,9 @@
  
 <h4 align='center'>My latest projects:</h4>
 <p align='center'>
-:suspension_railway: <a href="https://github.com/dkundih/promet-kc">promet-kc</p>  
-<p align='center'>
 ☣️ <a href="https://github.com/dkundih/vandal">vandal</p>  
 <p align='center'>
 🎭 <a href="https://github.com/dkundih/duality">duality</p>
-<p align='center'>
-🔧 <a href="https://github.com/dkundih/logistics">logistics</p>  
 
 <p align='center'>
 <a href="https://www.instagram.com/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/instagram.jpg"></a>
