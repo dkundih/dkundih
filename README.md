@@ -2,8 +2,6 @@
 
 <h1 align='center'> Hi! :wave:</h1>
  
-<img src='https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/BLUERED_GHiLI.jpg'/>
- 
 <h4 align='center'>My latest projects:</h4>
 <p align='center'>
 ☣️ <a href="https://github.com/dkundih/vandal">vandal</p>  
