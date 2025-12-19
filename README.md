@@ -12,5 +12,5 @@
 
 <p align='center'>
 <a href="https://www.pypi.org/user/dkundih/"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/pypi.jpg"></a>
-<a href="https://www.researchgate.net/profile/David-Kundih"><img height="25" src="https://raw.githubusercontent.com/dkundih/dkundih/main/.logistics/rg.jpg"></a>
+<a href="https://www.researchgate.net/profile/David-Kundih"><img height="25"
 </p>
